@@ -1,7 +1,7 @@
 # 7AZABET
 
 <h1 align="center">Hi 👋, I'm 7azabet</h1>
-<h3 align="center">A Python Programmer, I am a person who loves technology, information security and cybersecurity, and I love programming and computers</h3>
+<h3 align="center">A Python Programmer, I am a person who loves technology, information security and cybersecurity, love programming and computers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7azabet&label=Profile%20views&color=0e75b6&style=flat" alt="7azabet" /> </p>
 
