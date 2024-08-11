@@ -1,17 +1,17 @@
-# 7AZABET
+# Deyaa A.
 
-<h1 align="center">Hi 👋, I'm 7azabet</h1>
+<h1 align="center">Hi 👋, I'm Deyaa</h1>
 <h3 align="center">A Python Programmer, I am a person who loves technology, information security and cybersecurity, love programming and computers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7azabet&label=Profile%20views&color=0e75b6&style=flat" alt="7azabet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deyaaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="deyaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7azabet" alt="7azabet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyaaahmed" alt="deyaa" /></a> </p>
 
 - 🔭 I’m currently working on **A Large Islamic Project in Flutter on Android**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/7azabet](https://github.com/7azabet)
+- 👨‍💻 All of my projects are available at [https://github.com/deyaaahmed](https://github.com/deyaaahmed)
 
 - 💬 Ask me about **Python Security**
 
@@ -23,9 +23,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7azabet&show_icons=true&locale=en&layout=compact" alt="7azabet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyaaahmed&show_icons=true&locale=en&layout=compact" alt="deyaaahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7azabet&show_icons=true&locale=en" alt="7azabet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyaaahmed&show_icons=true&locale=en" alt="deyaaahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7azabet&" alt="7azabet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deyaaahmed&" alt="deyaaahmed" /></p>
 
